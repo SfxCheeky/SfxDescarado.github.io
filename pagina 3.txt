@@ -1,0 +1,31 @@
+<html>
+<head>
+<title>	Características Principales </title>
+</head>
+
+ <style>
+        body {background-image: url('imagenes/fondo/fondo_3.jpg');
+            background-size: cover; color: black;}
+ </style>
+
+<p> <h1> Elementos de Diseño que Definen a Frutiger Aero </h1> </p> 
+
+<img src="imagenes/pagina 3/imagen_1.JPG" width="300" height="300"/> <img src="imagenes/pagina 3/imagen_2.JPG" width="300" height="300"/> <img src="imagenes/pagina 3/imagen_3.JPG" width="300" height="300"/>
+
+<p> <h2>Entre las características más notables de Frutiger Aero se encuentran:
+
+Superficies brillantes: Objetos y interfaces que parecían pulidos y brillantes, transmitiendo un toque futurista.
+Degradados suaves: Transiciones de color fluidas que hacían que todo se sintiera tranquilo y armónico.
+Sombras y transparencias: Contribuían a crear profundidad y una sensación de ligereza.
+Bordes redondeados: Sin líneas duras, todo era suave y fluido, evocando aerodinámica y simplicidad.
+Efectos de agua o burbujas: Como en muchas interfaces tecnológicas, había un uso de elementos que parecían líquidos o llenos de vida.
+Peces y animales marinos: Algunos diseños incluían criaturas marinas o detalles acuáticos, reforzando la sensación de fluidez y conexión con la naturaleza.</h2> </p>
+
+<p> <h2>Frutiger Aero era el reflejo de un futuro optimista, lleno de innovación tecnológica y estética, donde los productos parecían invitarnos a un mundo más avanzado y digital.</h2> </p>
+
+<a href="./pagina 4.html">
+    <img src="imagenes/botones/boton_3.jpg" alt="Continuar" style="width: 150px; height: auto; border: none;">
+</a>
+
+</body>
+</html>

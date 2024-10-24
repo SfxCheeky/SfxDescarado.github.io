@@ -1,0 +1,29 @@
+<html>
+<head>
+<title>	Aplicaciones y Ejemplos </title>
+</head>
+
+ <style>
+        body {background-image: url('imagenes/fondo/fondo_4.jpg');
+            background-size: cover; color: black;}
+ </style>
+
+<p> <h1> ¿Dónde Podíamos Ver Frutiger Aero? </h1> </p> 
+
+<img src="imagenes/pagina 4/imagen_1.JPG" width="300" height="300"/> <img src="imagenes/pagina 4/imagen_2.JPG" width="300" height="300"/> <img src="imagenes/pagina 4/imagen_3.JPG" width="300" height="300"/>
+
+<p> <h2>Frutiger Aero no solo apareció en interfaces de sistemas operativos como Windows Vista, sino que también tuvo un impacto significativo en productos tecnológicos de la época. Aquí algunos ejemplos donde predominaba:
+
+Sistemas operativos y computadoras: Windows Vista fue uno de los principales exponentes de esta estética, con su uso de transparencias, brillos y degradados en ventanas y botones.
+Teléfonos celulares: Muchos teléfonos de marcas como Nokia y Sony Ericsson adoptaron esta estética para sus interfaces, combinando íconos suaves y brillantes.
+Aplicaciones y software: Programas como reproductores de medios y suites de software de productividad también optaron por estos diseños futuristas.
+Productos físicos: Fuera de la tecnología, objetos como dispensadores de jabón líquido y accesorios para baño imitaron los bordes redondeados y las superficies brillantes, integrando lo digital en el mundo físico.</h2> </p>
+
+<p> <h2>Estos productos creaban una sensación de estar conectados con un futuro prometido, donde la tecnología no solo era útil, sino visualmente atractiva y accesible.</h2> </p>
+
+<a href="./pagina 5.html">
+    <img src="imagenes/botones/boton_4.jpg" alt="Continuar" style="width: 150px; height: auto; border: none;">
+</a>
+
+</body>
+</html>

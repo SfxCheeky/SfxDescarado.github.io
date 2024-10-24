@@ -1,0 +1,29 @@
+<html>
+<head>
+<title>	Ejemplos de Minimalismo </title>
+</head>
+
+ <style>
+        body {background-image: url('imagenes/fondo/fondo_6.jpg');
+            background-size: cover; color: black;}
+ </style>
+
+<p> <h1> El Minimalismo en el Mundo Actual </h1> </p> 
+
+<img src="imagenes/pagina 6/imagen_1.JPG" width="300" height="300"/> <img src="imagenes/pagina 6/imagen_2.JPG" width="300" height="300"/> <img src="imagenes/pagina 6/imagen_3.JPG" width="300" height="300"/>
+
+<p> <h2>Hoy en día, el minimalismo domina gran parte del diseño digital y físico. Algunos ejemplos destacados incluyen:
+
+Sistemas operativos y aplicaciones: Tanto Windows 11 como macOS han adoptado el minimalismo, con interfaces planas, íconos simples y pocos elementos decorativos.
+Aplicaciones móviles: Aplicaciones como Instagram, Spotify y WhatsApp también siguen un enfoque minimalista, con interfaces limpias y colores sólidos que permiten una navegación sencilla.
+Teléfonos y computadoras: Los diseños de Apple, Samsung y Google Pixel reflejan este estilo minimalista con dispositivos de líneas rectas, colores sobrios y materiales pulidos.
+Productos cotidianos: Desde relojes inteligentes hasta accesorios para el hogar como lámparas y muebles, el minimalismo sigue siendo el estándar. Los productos son funcionales, elegantes y sin adornos innecesarios.</h2> </p>
+
+<p> <h2>El minimalismo, al contrario que Frutiger Aero, pone la función por encima de la forma, eliminando detalles complejos para lograr un diseño limpio y eficiente.</h2> </p>
+
+<a href="./pagina 7.html">
+    <img src="imagenes/botones/boton_6.jpg" alt="Continuar" style="width: 150px; height: auto; border: none;">
+</a>
+
+</body>
+</html>

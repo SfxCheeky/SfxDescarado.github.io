@@ -1,0 +1,24 @@
+<html>
+<head>
+<title>	Conclusión </title>
+</head>
+
+ <style>
+        body {background-image: url('imagenes/fondo/fondo_7.jpg');
+            background-size: cover; color: black;}
+ </style>
+
+<p> <h1> El Legado de Frutiger Aero y el Futuro del Diseño </h1> </p> 
+
+<img src="imagenes/pagina 7/imagen_1.JPG" width="300" height="300"/> <img src="imagenes/pagina 7/imagen_2.JPG" width="300" height="300"/> <img src="imagenes/pagina 7/imagen_3.JPG" width="300" height="300"/>
+
+<p> <h2>Frutiger Aero ofrecía una visión de un futuro brillante y pulido, donde la tecnología y el diseño convergían en armonía. Aunque esa estética fue reemplazada por el minimalismo, su legado sigue vivo en las tendencias actuales que buscan combinar simplicidad con detalles suaves y visualmente agradables.</h2> </p>
+
+<p> <h2>Hoy, las tendencias como el 'neumorfismo', que mezcla elementos del minimalismo con efectos sutiles de profundidad, parecen tomar inspiración de esa época. Aunque el minimalismo domina la estética actual, Frutiger Aero sigue siendo recordado como un símbolo de una era donde el futuro parecía tan brillante como los efectos visuales que lo representaban.</h2> </p>
+
+<a href="./Inicio.html">
+    <img src="imagenes/botones/boton_7.jpg" alt="Continuar" style="width: 150px; height: auto; border: none;">
+</a>
+
+</body>
+</html>
